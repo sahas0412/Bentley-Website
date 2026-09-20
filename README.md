@@ -1,4 +1,3 @@
-# Bentley-Website
 # Bentley Torcal - Coming Soon Page 🏎️
 
 A premium, modern "Coming Soon" landing page featuring a fully functional dynamic countdown timer. 
