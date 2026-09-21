@@ -31,3 +31,5 @@ setInterval(function(){
 
 }, 1000);
 
+let menubtn = document.getElementById("menu-btn");
+let navmenu = document.getElementById("main-menu");
