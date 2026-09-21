@@ -1,5 +1,7 @@
 # Bentley Torcal - Coming Soon Page 🏎️
 
+# Day 01
+
 A premium, modern "Coming Soon" landing page featuring a fully functional dynamic countdown timer. 
 
 ## ✨ Features
@@ -14,6 +16,8 @@ A premium, modern "Coming Soon" landing page featuring a fully functional dynami
 ## 🧠 What I Learned
 - **Emmet:** Mastered using Emmet abbreviations in VS Code to write complex HTML structures and CSS properties significantly faster.
 - **State Management:** Learned how to convert total time into seconds and continuously update the UI using JavaScript intervals.
+
+# Day 02
 
 ## 👨‍💻 Author
 **Sahas Abhishek**
