@@ -143,27 +143,34 @@ button:hover{
 @media (max-width:768px){
 
     body{
-    background-image: url('BentleyMobile.jpg');
-    background-size: cover;
-    background-repeat: no-repeat;
-    height: 100vh;
+        background-image: url('BentleyMobile.jpg');
+        background-size: cover;
+        background-repeat: no-repeat;
+        height: 100vh;
     }
 
     .header-mobile{
         display: flex;
-        justify-content: center;
         align-items: center;
+        justify-content: space-between;
+
     }
 
     .hamburger-menu{
-    display: flex;
-    flex: 1;
-    color: #ffffff;
-    font-size: 30px;
-    background: transparent;
-    cursor: pointer;
-    border: none;
-    justify-content: flex-end;
+        display: flex;
+        flex: 1;
+        color: #ffffff;
+        font-size: 30px;
+        background: transparent;
+        cursor: pointer;
+        border: none;
+        justify-content: flex-end;
+        align-items: center;
+        position: absolute;
+        right: 35px;
+        top:44px;
+
+
     }
 
     .models{
@@ -172,14 +179,16 @@ button:hover{
         text-decoration: none;
         cursor: pointer;
         color: #ffffff;
+        font-size: 16px;
     }
 
     .logo-mobile{
-    width: 120px;
-    height: 80px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+        width: 140px;
+        height: 95px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        justify-content: space-between;
 
     }
 
@@ -246,7 +255,7 @@ button:hover{
     cursor: pointer;
     border: none;
     position: absolute;
-    top: 32px;
+    top: 44px;
     right : 35px;
     }
 
@@ -257,7 +266,7 @@ button:hover{
         width: 60px;
         height: 60px;
         position: absolute;
-        top: 30px;
+        top: 41px;
         right : 30px;
     }
 
