@@ -33,3 +33,13 @@ setInterval(function(){
 
 let menubtn = document.getElementById("menu-btn");
 let navmenu = document.getElementById("main-menu");
+
+menubtn.addEventListener("click", function(){
+    navmenu.classList.toggle('active')
+});
+
+let closebtn = document.getElementById("close-btn");
+
+closebtn.addEventListener("click", function(){
+    navmenu.classList.remove('active')
+});
