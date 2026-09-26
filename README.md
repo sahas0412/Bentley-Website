@@ -18,13 +18,13 @@ A premium, modern "Coming Soon" landing page featuring a fully functional dynami
 
 <img width="1710" height="1112" alt="Screenshot 2026-09-27 at 01 14 02" src="https://github.com/user-attachments/assets/da19d415-3d50-4163-b2ef-ea14b133f740" />
 
-### Figure 01 - My Website
+### Figure 01 - My Website ( Desktop View )
 
 <br></br>
 
 <img width="1600" height="1040" alt="WhatsApp Image 2026-09-21 at 00 16 49" src="https://github.com/user-attachments/assets/f1444698-8245-47d3-a80d-36ea81e5c3e0" />
 
-### Figure 02 - Resources Website from Bentley
+### Figure 02 - Resources Website from Bentley ( Desktop View )
 
 
 
@@ -48,6 +48,16 @@ A premium, full-screen mobile navigation menu with smooth, high-end CSS transiti
 - **Semantic HTML Rules:** Discovered that a web page should strictly have only one `<main>` tag for core content, and learned to correctly restructure secondary components using `<div>` and `<nav>`.
 - **Advanced Flexbox:** Applied `flex-direction: column` to correctly stack vertical menu links, and learned how to use `justify-content: space-between` to push elements to opposite ends of a container.
 
+<img width="295.5" height="640" alt="WhatsApp Image 2026-09-23 at 18 26 51" src="https://github.com/user-attachments/assets/b78aaddb-91e5-4709-972e-dcffe0fc122a" />
+
+### Figure 03 - My Website ( Mobile View )
+
+
+<img width="292.5" height="633" alt="Official Bentley Motors  The Art of Handcrafted Luxury and Performance" src="https://github.com/user-attachments/assets/afadd129-f356-406a-b8b5-1d2b6c3553cc" />
+
+### Figure 04 - Resources Website from Bentley ( Mobile View )
+
+
 # Day 03
 ## Mobile Responsiveness & Layout Optimization 📱🛠️
 
@@ -68,5 +78,17 @@ Focused on perfecting the mobile viewing experience by restructuring the header 
 - **Image Positioning:** Mastered the use of `background-position: center` alongside `background-size: cover` to keep the focal point of an image visible on narrow screens.
 - **Debugging Overlaps:** Learned how to identify and fix overlapping elements by carefully adjusting explicit `height` properties and `margin` spacing in mobile views.
 
+<img width="292.5" height="633" alt="Document 2" src="https://github.com/user-attachments/assets/4e10a32c-73bc-4963-b17e-5711eb943631" />
+
+### Figure 05 - My Website ( Mobile View )
+
+<img width="1710" height="1112" alt="Screenshot 2026-09-27 at 01 14 02" src="https://github.com/user-attachments/assets/da19d415-3d50-4163-b2ef-ea14b133f740" />
+
+### Figure 06 - My Website ( Desktop View )
+
+
 ## 👨‍💻 Author
-**Sahas Abhishek**
+**Sahas Abhishek** <br>
+**Faculty of Engineering** <br>
+**University of Ruhuna** <br>
+**Sri Lanka**
