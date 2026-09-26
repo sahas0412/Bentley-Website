@@ -117,7 +117,6 @@ button:hover{
 }
 
 .action-section{
-    height :50vh;
     margin-top: 170px;
 }
 
@@ -225,7 +224,7 @@ button:hover{
     }
 
     .action-section{
-        height: 60vh;
+        
         margin-top: 50px;
     }
 
@@ -247,16 +246,16 @@ button:hover{
     }
 
     .close-menu{
-    display: block;
-    color: #000000;
-    font-size: 30px;
-    font-weight: normal;
-    background: transparent;
-    cursor: pointer;
-    border: none;
-    position: absolute;
-    top: 44px;
-    right : 35px;
+        display: block;
+        color: #000000;
+        font-size: 30px;
+        font-weight: normal;
+        background: transparent;
+        cursor: pointer;
+        border: none;
+        position: absolute;
+        top: 44px;
+        right : 35px;
     }
 
     .close-menu:hover{
