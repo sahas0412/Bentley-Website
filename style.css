@@ -145,6 +145,7 @@ button:hover{
         background-image: url('BentleyMobile.jpg');
         background-size: cover;
         background-repeat: no-repeat;
+        background-position: center;
         height: 100vh;
     }
 
@@ -224,7 +225,7 @@ button:hover{
     }
 
     .action-section{
-        margin-top: 0px;
+        margin-top: 10px;
     }
 
     .countdown{
