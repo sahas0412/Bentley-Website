@@ -199,6 +199,8 @@ button:hover{
     .RTDbtn{
         display: block;
         position: static;
+        align-items: center;
+        justify-content: center;
         margin-bottom: 20px;
         width: 360px;
     }
