@@ -18,11 +18,13 @@ A premium, modern "Coming Soon" landing page featuring a fully functional dynami
 
 <img width="1710" height="1112" alt="Screenshot 2026-09-27 at 01 14 02" src="https://github.com/user-attachments/assets/da19d415-3d50-4163-b2ef-ea14b133f740" />
 
-# Figure 01 - My Website
+### Figure 01 - My Website
+
+<br></br>
 
 <img width="1600" height="1040" alt="WhatsApp Image 2026-09-21 at 00 16 49" src="https://github.com/user-attachments/assets/f1444698-8245-47d3-a80d-36ea81e5c3e0" />
 
-# Figure 02 - Resources Website from Bentley
+### Figure 02 - Resources Website from Bentley
 
 
 
