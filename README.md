@@ -16,8 +16,6 @@ A premium, modern "Coming Soon" landing page featuring a fully functional dynami
 - **Emmet:** Mastered using Emmet abbreviations in VS Code to write complex HTML structures and CSS properties significantly faster.
 - **State Management:** Learned how to convert total time into seconds and continuously update the UI using JavaScript intervals.
 
-![Alt text](/Users/sahasabhishek/Desktop/WebPractice/Screenshot 2026-09-27 at 01.14.02.png)
-
 
 # Day 02
 ## Full-Screen Mobile Navigation & Premium Animations 📱✨
