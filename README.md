@@ -16,6 +16,15 @@ A premium, modern "Coming Soon" landing page featuring a fully functional dynami
 - **Emmet:** Mastered using Emmet abbreviations in VS Code to write complex HTML structures and CSS properties significantly faster.
 - **State Management:** Learned how to convert total time into seconds and continuously update the UI using JavaScript intervals.
 
+<img width="1710" height="1112" alt="Screenshot 2026-09-27 at 01 14 02" src="https://github.com/user-attachments/assets/da19d415-3d50-4163-b2ef-ea14b133f740" />
+
+# Figure 01 - My Website
+
+<img width="1600" height="1040" alt="WhatsApp Image 2026-09-21 at 00 16 49" src="https://github.com/user-attachments/assets/f1444698-8245-47d3-a80d-36ea81e5c3e0" />
+
+# Figure 02 - Resources Website from Bentley
+
+
 
 # Day 02
 ## Full-Screen Mobile Navigation & Premium Animations 📱✨
