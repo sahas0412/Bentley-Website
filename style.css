@@ -152,7 +152,12 @@ button:hover{
         display: flex;
         align-items: center;
         justify-content: space-between;
+        padding: 50px 20px;
 
+    }
+
+    .header{
+        display: none;
     }
 
     .hamburger-menu{
@@ -220,12 +225,11 @@ button:hover{
     }
 
     .hero-section h2{
-        font-size: 45px;
+        font-size: 35px;
     }
 
     .action-section{
-        
-        margin-top: 50px;
+        margin-top: 0px;
     }
 
     .countdown{
@@ -235,14 +239,18 @@ button:hover{
     .action-buttons{
         flex-direction: column;
         gap: 20px;
+        height: 30px;
+
     }
 
     .learn-more{
-        width: 370px;
+        width: 360px;
+        align-items: center;
     }
 
     .keep-informed{
-        width: 370px;
+        width: 360px;
+        align-items: center;
     }
 
     .close-menu{
@@ -310,5 +318,13 @@ button:hover{
     #main-menu.active a{
         left:0;
         transition-delay:0.5s ;
+    }
+
+    .timer h2{
+        font-size: 30px;
+    }
+
+    .timer p{
+        font-size: 10px;
     }
 }
